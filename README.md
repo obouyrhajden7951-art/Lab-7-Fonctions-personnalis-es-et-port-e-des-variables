@@ -1,7 +1,7 @@
 # Lab-7-Fonctions-personnalis-es-et-port-e-des-variables
 
      #  Étape 1 – Créer une fonction et l’appeler
-     
+
 <img width="511" height="449" alt="Capture d’écran 2025-12-04 222427" src="https://github.com/user-attachments/assets/8c1b1967-603a-4ed2-a84b-7e916fe47f77" />
 
       #  📝 Étape 2 – Passer des informations à une fonction (paramètres)
