@@ -24,4 +24,9 @@
 
 <img width="634" height="428" alt="Capture d’écran 2025-12-04 225924" src="https://github.com/user-attachments/assets/791dfa6f-3448-4ed3-babe-d1a7b5677a4e" />
 
-            
+            # 📝Étape 7 – Fonctions pour la gestion des notes
+
+<img width="514" height="444" alt="Capture d’écran 2025-12-04 231312" src="https://github.com/user-attachments/assets/4cde092c-c5f9-4ec7-ab81-01aff20dcbf2" />
+
+          
+
